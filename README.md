@@ -2,8 +2,23 @@ The Art of Deep-Learning
 ==============
 
 
+### CNN-based Face Recognition (Identification/Verification):
+ * The Do’s and Don’ts for CNN-based Face Verification [link](https://arxiv.org/abs/1705.07426)
+ * A summary of deep models for face recognition [pdf](http://cs.wellesley.edu/~vision/slides/Qianli_summary_deep_face_models.pdf)
+ * Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments [pdf](http://vis-www.cs.umass.edu/lfw/lfw.pdf) (describes LFW dataset and the unseen pair matching  problem ) (independent decision for all pairs)
+ * Unconstrained face verification using deep cnn features [link](https://arxiv.org/abs/1508.01722)
+ * Frankenstein: Learning deep face representations using small data [link](https://arxiv.org/abs/1603.06470)
+ * Triplet probabilistic embedding for face verification and clustering [link](https://arxiv.org/abs/1604.05417)
+ * Facenet: A unified embedding for face recognition and clustering [link](https://arxiv.org/abs/1503.03832)
+ * Deepid3: Face recognition with very deep neural networks [link](https://arxiv.org/abs/1502.00873)
+ * Hybrid deep learning for face verification 
+ * Deepface: Closing the gap to human-level performance in face verification [pdf](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+ * Deep face recognition [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
+ * A Discriminative Feature Learning Approach for Deep Face Recognition [pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
 
-**Adversarial Attacks:**
+
+
+### Adversarial Attacks:
  * (Szegedy; L-BFGS) Intriguing properties of neural networks [link](https://arxiv.org/abs/1312.6199) 
  * (FGS) Explaining and harnessing adversarial examples [link](https://arxiv.org/abs/1412.6572)
  * Adversarial Manipulation of Deep Representations [link](https://arxiv.org/abs/1511.05122)
@@ -14,7 +29,7 @@ The Art of Deep-Learning
  * Simple Black-Box Adversarial Perturbations for Deep Networks [link](https://arxiv.org/abs/1612.06299)
  * Are Facial Attributes Adversarially Robust? [link](https://arxiv.org/abs/1605.05411)
 
-**Defense Against Adversarial Attacks (Adversarial Robustness)**
+### Defense Against Adversarial Attacks (Adversarial Robustness)
  * Ensemble Methods as a Defense to Adversarial Perturbations Against Deep Neural Networks [link](https://arxiv.org/abs/1709.03423)
  * Adversarial robustness: Softmax versus Openmax [link](https://arxiv.org/abs/1708.01697)
  * Towards Robust Deep Neural Networks with BANG [link](https://arxiv.org/abs/1612.00138)

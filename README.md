@@ -1,4 +1,4 @@
-The Art of Deep-Learning 
+The Art of Deep Learning 
 ==============
 
 

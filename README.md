@@ -19,6 +19,7 @@ The Art of Deep Learning
 
 
 ### Adversarial Attacks:
+ * There Is No Free Lunch In Adversarial Robustness (But There Are Unexpected Benefits) [link](https://arxiv.org/abs/1805.12152v2)
  * (Szegedy; L-BFGS) Intriguing properties of neural networks [link](https://arxiv.org/abs/1312.6199) 
  * (FGS) Explaining and harnessing adversarial examples [link](https://arxiv.org/abs/1412.6572)
  * Adversarial Manipulation of Deep Representations [link](https://arxiv.org/abs/1511.05122)

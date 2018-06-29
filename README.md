@@ -31,6 +31,7 @@ The Art of Deep Learning
  * Are Facial Attributes Adversarially Robust? [link](https://arxiv.org/abs/1605.05411)
 
 ### Defense Against Adversarial Attacks (Adversarial Robustness)
+ * Fortified Networks: Improving the Robustness of Deep Networks by Modeling the Manifold of Hidden Representations [link](https://arxiv.org/abs/1804.02485)
  * Ensemble Methods as a Defense to Adversarial Perturbations Against Deep Neural Networks [link](https://arxiv.org/abs/1709.03423)
  * Adversarial robustness: Softmax versus Openmax [link](https://arxiv.org/abs/1708.01697)
  * Towards Robust Deep Neural Networks with BANG [link](https://arxiv.org/abs/1612.00138)

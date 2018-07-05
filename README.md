@@ -1,6 +1,20 @@
 The Art of Deep Learning 
 ==============
 
+### General CNN papers
+ * Spatial Transformer Networks [link](https://arxiv.org/abs/1506.02025) -- 2016
+ * Non-local Neural Networks [link](https://arxiv.org/abs/1711.07971) -- 2017
+ * Network in Network (NIN): [link](https://arxiv.org/abs/1312.4400)
+ * Striving for simplicity: The all convolutional net [link](https://arxiv.org/pdf/1412.6806)
+ * Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition (SPP) [link](https://arxiv.org/pdf/1406.4729)
+
+
+
+### Representation Learning:
+ * Representation Learning: A Review and New Perspectives [link](https://arxiv.org/abs/1206.5538)
+ * Regularized Auto-Encoders Estimate Local Statistics [link](https://pdfs.semanticscholar.org/57e1/7ce6e9a06aa8137ea355ba53073e3ffc7de6.pdf)
+ * Better Mixing via Deep Representations [link](https://arxiv.org/abs/1207.4404)
+ * Spatial Transformer Networks [link](https://arxiv.org/abs/1506.02025)
 
 ### CNN-based Face Recognition (Identification/Verification):
  * The Do’s and Don’ts for CNN-based Face Verification [link](https://arxiv.org/abs/1705.07426)
@@ -32,6 +46,7 @@ The Art of Deep Learning
 
 ### Defense Against Adversarial Attacks (Adversarial Robustness)
  * Fortified Networks: Improving the Robustness of Deep Networks by Modeling the Manifold of Hidden Representations [link](https://arxiv.org/abs/1804.02485)
+ * Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models [lin](https://arxiv.org/abs/1805.06605) 
  * Ensemble Methods as a Defense to Adversarial Perturbations Against Deep Neural Networks [link](https://arxiv.org/abs/1709.03423)
  * Adversarial robustness: Softmax versus Openmax [link](https://arxiv.org/abs/1708.01697)
  * Towards Robust Deep Neural Networks with BANG [link](https://arxiv.org/abs/1612.00138)

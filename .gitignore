@@ -1,0 +1,31 @@
+# Data directories
+codes/jupyter-notebooks/mnist/
+
+# PyPI
+build/
+dist/
+MANIFEST
+
+# Temporary files
+.coverage
+.ipynb_checkpoints
+
+*.sqlite
+gmon.out
+__pycache__
+*.pyc
+*.o
+*.so
+*.gcno
+*.swp
+*.egg-info
+*.egg
+*~
+build
+dist
+lib/test
+doc/_build
+*env
+*ENV
+.DS_store
+.idea

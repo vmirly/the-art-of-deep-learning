@@ -61,4 +61,8 @@ The Art of Deep Learning
  * Towards deep learning models resistant to adversarial attacks [link](https://arxiv.org/abs/1706.06083)
 
 
-
+### Generative Models
+ * Auto-Encoding Variational Bayes (aka VAE) [link](https://arxiv.org/abs/1312.6114)
+ * Generative Adversarial Networks [link](https://arxiv.org/abs/1406.2661)
+ * Adversarial Autoencoders [link](https://arxiv.org/abs/1511.05644)
+ * Generative Probabilistic Novelty Detection with Adversarial Autoencoders [link](https://arxiv.org/abs/1807.02588)

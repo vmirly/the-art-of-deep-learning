@@ -1,5 +1,6 @@
 # Data directories
 codes/jupyter-notebooks/mnist/
+codes/jupyter-notebooks/loading-data/emnist/
 
 # PyPI
 build/

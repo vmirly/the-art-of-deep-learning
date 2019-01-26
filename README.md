@@ -7,7 +7,7 @@ The Art of Deep Learning
  * Network in Network (NIN): [link](https://arxiv.org/abs/1312.4400)
  * Striving for simplicity: The all convolutional net [link](https://arxiv.org/pdf/1412.6806)
  * Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition (SPP) [link](https://arxiv.org/pdf/1406.4729)
-
+ * Deeply Supervised Nets [link](https://arxiv.org/abs/1409.5185) -- 2014
 
 
 ### Representation Learning:

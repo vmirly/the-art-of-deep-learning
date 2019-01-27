@@ -30,7 +30,7 @@ The Art of Deep Learning
  * Deep face recognition [pdf](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
  * A Discriminative Feature Learning Approach for Deep Face Recognition [pdf](http://ydwen.github.io/papers/WenECCV16.pdf)
 
-
+ * Joint face detection and alignment using multitask cascaded convolutional networks [link](https://arxiv.org/abs/1604.02878)
 
 ### Adversarial Attacks:
  * There Is No Free Lunch In Adversarial Robustness (But There Are Unexpected Benefits) [link](https://arxiv.org/abs/1805.12152v2)

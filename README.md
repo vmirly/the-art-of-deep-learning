@@ -32,6 +32,16 @@ The Art of Deep Learning
 
  * Joint face detection and alignment using multitask cascaded convolutional networks [link](https://arxiv.org/abs/1604.02878)
 
+
+### Detection and Segmentation:
+
+ * Panoptic Feature Pyramid Networks (**Panoptic FPN**) [link](https://arxiv.org/abs/1901.02446)
+ * You Only Look Once: Unified, Real-Time Object Detection [link](https://arxiv.org/abs/1506.02640)
+ * Mask R-CNN [link](https://arxiv.org/abs/1703.06870)
+ * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [link](https://arxiv.org/abs/1506.01497)
+ * Fast R-CNN [link](https://arxiv.org/abs/1504.08083)
+
+
 ### Adversarial Attacks:
  * There Is No Free Lunch In Adversarial Robustness (But There Are Unexpected Benefits) [link](https://arxiv.org/abs/1805.12152v2)
  * (Szegedy; L-BFGS) Intriguing properties of neural networks [link](https://arxiv.org/abs/1312.6199) 
@@ -66,3 +76,7 @@ The Art of Deep Learning
  * Generative Adversarial Networks [link](https://arxiv.org/abs/1406.2661)
  * Adversarial Autoencoders [link](https://arxiv.org/abs/1511.05644)
  * Generative Probabilistic Novelty Detection with Adversarial Autoencoders [link](https://arxiv.org/abs/1807.02588)
+
+#### GAN applicaitons:
+ * WarpGAN: Automatic Caricature Generation [link](https://arxiv.org/abs/1811.10100)
+
